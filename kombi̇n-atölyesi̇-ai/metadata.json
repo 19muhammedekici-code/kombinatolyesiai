@@ -1,0 +1,7 @@
+{
+  "name": "KOMBİN ATÖLYESİ AI",
+  "description": "Kişisel fotoğraflarınızla yapay zeka destekli sanal kıyafet deneme ve kombin oluşturma platformu.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
